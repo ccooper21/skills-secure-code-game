@@ -22,7 +22,7 @@ jobs:
     permissions:
       contents: read
     steps:
-      - name: Check out code
+      - name: Check out code xxx
         uses: actions/checkout@v3
       - name: Check GitHub Status
         # Source of GitHub Action in line 30: 
